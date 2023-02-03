@@ -2,6 +2,7 @@ import pygame as pg
 import sys
 from random import randint
 
+"""WIN_SIZE will change the size of the game window and CELL_SIZE adjusts automatically"""
 WIN_SIZE = 600
 CELL_SIZE = WIN_SIZE // 3
 INF = float('inf')
